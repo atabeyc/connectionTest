@@ -52,7 +52,7 @@ namespace Connection
         }
         private void firebirdOpenButton_Click(object sender, EventArgs e)
         {
-            //************************ALTERNATIVE CONNECTION METHOD*************************///
+            //************************ALTERNATIVE CONNECTION METHOD*****************************///
 
             //FbConnectionStringBuilder con = new FbConnectionStringBuilder();
             //con.DataSource = "localhost";
